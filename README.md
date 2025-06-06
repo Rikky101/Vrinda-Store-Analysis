@@ -24,7 +24,7 @@ This report presents a comprehensive analysis of Vrinda Store’s sales performa
 
 ✨ In answering these questions, I carried out extensive data cleaning and transformation to ensure the accuracy and integrity of results.
 
-📂 [Download the dataset (raw and cleaned dataset)](https://github.com/Rikky101/Vrinda-Store-Analysis/blob/main/Vrinda%20Store%20Data.xlsx)
+📂 [Download the dataset}(https://github.com/Rikky101/Vrinda-Store-Analysis/blob/main/Vrinda%20Store%20Data.xlsx)
 
 
 ## 📌 Conclusion
